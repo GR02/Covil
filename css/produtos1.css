@@ -1,0 +1,44 @@
+.cabeça {display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding: 5px;}
+
+.cabeçaLi {display: inline-block;
+       font-size: 2rem; 
+       padding-top: 2rem; 
+       padding-bottom: 2rem;
+       padding-right: 2rem;
+       color: white;}
+
+body  h1 h2 {font-family: 'Papyrus',fantasy;
+              line-height: 25px;
+              color: white;}
+
+header {background-color:rgb(23, 26, 33);
+        background-size: cover;}
+
+main p {color: black;  
+        font-size: 17px; 
+        font-family: 'Georgia', serif; 
+        padding: 0.5rem;}
+
+footer {background-color: rgb(23, 26, 33); 
+        color: white;
+        text-align: center;}
+
+.produtos1  h1 {text-align: center; 
+                font-size: 2.5rem;}
+
+.produtos1 {padding-top: 3.5rem;}
+
+.produtos1 p {text-align: center; 
+              font-size: 1.5rem;}
+
+
+
+.GOW {padding-left: 7rem;}
+
+.MKT {padding-left: 11rem; padding-top: 2rem; padding-bottom: 0.3rem;}
+
+.F1 {padding-left: 11rem;}
+

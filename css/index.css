@@ -1,0 +1,45 @@
+
+.cabeça {display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding: 5px;}
+
+.cabeçaLi {display: inline-block;
+       font-size: 2rem; 
+       padding-top: 2rem; 
+       padding-bottom: 2rem;
+       padding-right: 2rem;
+       color: white;}
+
+
+body  h1 h2 {font-family: 'Papyrus',fantasy;
+            line-height: 25px;
+            color: white;}
+
+header {background-color:rgb(23, 26, 33);
+    background-size: cover;}
+
+main {background-image: url(../imagens/cv.jpg);
+    background-size: cover;}
+
+footer {background-color: rgb(23, 26, 33);}
+
+main {padding-top: 50px;}
+
+main p {color: white; 
+    font-size: 17px; font-family: 'Georgia', serif;}
+
+main ul {padding-top: 15rem;}
+
+main p {text-align: center; 
+    padding-bottom: 1rem; padding-top: 1rem;
+     font-size: 2rem;}
+
+
+.copyright {font-weight: bolder;
+        font-style: italic; 
+        font-size: 1rem; 
+        text-align: center; padding: 0.5rem;
+        color: white;}
+
+
