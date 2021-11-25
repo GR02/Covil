@@ -20,7 +20,7 @@ header {background-color:rgb(23, 26, 33);
 main {background-image: url(../imagens/cv.jpg);
       background-size: cover;}
 
-main p {color: black;  
+main p {color: white;  
         font-size: 17px; 
         font-family: 'Georgia', serif; 
         padding: 0.5rem;}
@@ -41,7 +41,11 @@ footer {background-color: rgb(23, 26, 33);
 
 .GOW {padding-left: 7rem;}
 
-.MKT {padding-left: 11rem; padding-top: 2rem; padding-bottom: 0.3rem;}
+.BF {padding-top: 3rem; padding-left: 3rem; padding-bottom: 1.7rem;}
+
+.MKT {padding-left: 11rem; 
+      padding-top: 2rem; 
+      padding-bottom: 0.3rem;}
 
 .F1 {padding-left: 11rem;}
 

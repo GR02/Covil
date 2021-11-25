@@ -17,7 +17,10 @@ body  h1 h2 {font-family: 'Papyrus',fantasy;
 header {background-color:rgb(23, 26, 33);
         background-size: cover;}
 
-main p {color: black;  
+main {background-image: url(../imagens/cv.jpg);
+      background-size: cover;}
+
+main p {color: white;  
         font-size: 17px; 
         font-family: 'Georgia', serif; 
         padding: 0.5rem; text-align: center;}
@@ -38,6 +41,8 @@ footer {background-color: rgb(23, 26, 33);
 
 
 .GOW {padding-left: 4rem;}
+
+.BF {padding-top: 3rem; padding-left: 3rem; padding-bottom: 1.7rem;}
 
 .MKT {padding-left: 11rem; padding-top: 2REM;padding-bottom: 9px;}
 
