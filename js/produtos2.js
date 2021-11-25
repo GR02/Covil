@@ -1,0 +1,2 @@
+var mensagm ="hello world"
+       alert('Para aqueles que buscam além do que os olhos enxergam, que desejam a localizar itens perdidos, achar lugares esquecidos, reviver histórias apagadas, todas as respostas aqui você encontrara.')
