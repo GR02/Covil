@@ -17,6 +17,9 @@ body  h1 h2 {font-family: 'Papyrus',fantasy;
 header {background-color:rgb(23, 26, 33);
         background-size: cover;}
 
+main {background-image: url(../imagens/cv.jpg);
+      background-size: cover;}
+
 main p {color: black;  
         font-size: 17px; 
         font-family: 'Georgia', serif; 
