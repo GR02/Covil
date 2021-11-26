@@ -10,6 +10,10 @@ Site temático e interativo para a compra de jogos online.
 ![made-with-HTML5](https://img.shields.io/badge/Made%20with-HTML5-e34f26.svg) 
 ![made-with-Javascript](https://img.shields.io/badge/Made%20with-Javascript-F7DF1E.svg) 
 
+## Dependências
+
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
 ## Desafio
 ```
 Levar o usuario a imergir-se no tema do site durante a navegção.
@@ -21,11 +25,11 @@ Levar o usuario a imergir-se no tema do site durante a navegção.
 Acesse o link: https://covil-sooty.vercel.app/
 ```
 
-## Dependências
+## Problemas ainda não solucionados
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+``
+Adaptar o site para mobile.
+``
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
