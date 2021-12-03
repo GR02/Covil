@@ -15,7 +15,8 @@ header {background-color:rgb(23, 26, 33);
 
 main   {background-image: url(../imagens/cv.jpg);
         background-size: cover; 
-        display: block;}
+        display: block;
+        color: white;}
 
 footer {background-color: rgb(23, 26, 33); padding: 1rem;}
 
